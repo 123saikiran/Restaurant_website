@@ -1,2 +1,2 @@
 # Restaurant_website
-#Landing page of Restaurant
+Landing page of Restaurant
